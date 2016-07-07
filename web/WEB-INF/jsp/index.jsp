@@ -4,8 +4,8 @@
 
 <html lang="es">
     <head>
-        <link href="../css/style.css" type="text/css" rel="stylesheet" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href="../css/estilo.css" rel="stylesheet" type="text/css"/>
         <title>Welcome to Spring Web MVC project</title>
     </head>
     <body>
