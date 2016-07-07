@@ -9,7 +9,7 @@
     </head>
 
     <body>
-    <h>JADIT Vanguardia en Tecnología</h>
+    <h1><b>JADIT Vanguardia en Tecnología</b></h1>
         <p>Hello! This is the default welcome page for a Spring Web MVC project.</p>
         <p><i>To display a different welcome page for this project, modify</i>
             <tt>index.jsp</tt> <i>, or create your own welcome page then change
