@@ -4,6 +4,7 @@
 
 <html lang="es">
     <head>
+        <link href="css/style.css" type="text/css" rel="stylesheet" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Welcome to Spring Web MVC project</title>
     </head>
